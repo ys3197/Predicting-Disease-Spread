@@ -13,4 +13,4 @@ The data has been obtained from *drivenData.org*, it was released as a part of t
 ## Project Structure
 
 - **Explore Data Analysis**
-- EDA is always important in the machine learning project therefore we obtain a individual notebook for exploring the data.
+  - EDA is always important in the machine learning project therefore we obtain a individual notebook for exploring the data.
