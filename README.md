@@ -14,3 +14,11 @@ The data has been obtained from *drivenData.org*, it was released as a part of t
 
 - **Explore Data Analysis**
   - EDA is always important in the machine learning project therefore we obtain a individual notebook for exploring the data.
+ 
+- **Feature Engineer**
+  - Extract useful features and generate new features
+ 
+- **Models**
+  - One Model or Two Model by locations
+  - Hyperparameter Tuning by Optuna
+  - Feature Importance Analysis by Shap
