@@ -7,7 +7,7 @@ Dengue fever is a mosquito-borne disease that occurs in tropical and sub-tropica
 
 
 ## Data
-The data has been obtained from *drivenData.org*, it was released as a part of their competition *DengAI*. I also included the training data in the [Data](https://github.com/ys3197/Predicting-Disease-Spread/tree/main/Data](https://github.com/ys3197/Predicting-Disease-Spread/tree/main/Data/RawData) folder.
+The data has been obtained from *drivenData.org*, it was released as a part of their competition *DengAI*. I also included the training data in the [Data](https://github.com/ys3197/Predicting-Disease-Spread/tree/main/Data/RawData) folder.
 
 
 ## Project Structure
