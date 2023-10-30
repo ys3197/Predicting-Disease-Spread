@@ -15,7 +15,7 @@ The data has been obtained from *drivenData.org*, it was released as a part of t
 - **Explore Data Analysis**
   - EDA is always important in the machine learning project therefore we obtain a individual notebook for exploring the data.
  
-- **Feature Engineer**
+- **Feature Engineer & Selection**
   - Extract useful features and generate new features
  
 - **Models**
@@ -29,3 +29,9 @@ The data has been obtained from *drivenData.org*, it was released as a part of t
  
 ## Results
 XGBoost performs best among all models.
+
+
+## Next Steps
+
+- More sophisticated feature engineer and selection
+- Ensemble of different models
