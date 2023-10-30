@@ -1,0 +1,9 @@
+pandas==1.5.3
+numpy==1.23.5
+shap==0.43.0
+optuna==3.4.0
+xgboost==2.0.1
+lightgbm==4.1.0
+sklearn==1.2.2
+matplotlib==3.7.1
+seaborn==0.12.2
