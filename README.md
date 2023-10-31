@@ -27,6 +27,9 @@ The data has been obtained from *drivenData.org*, it was released as a part of t
   - Use shap to visualize the most important features model values
 
 
+## Result
+A detailed report is presented [here](https://github.com/ys3197/Predicting-Disease-Spread/blob/main/Documentations/Documentation.pdf).
+
 ## Next Steps
 
 - More sophisticated feature engineer and selection
