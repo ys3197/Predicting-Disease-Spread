@@ -19,19 +19,16 @@ The data has been obtained from *drivenData.org*, it was released as a part of t
   - Extract useful features and generate new features
  
 - **Models**
-  - One Model or Two Model by locations
+  - Baseline: linear regression, random forest
+  - LightGBM and XGBoost with time series split cross validation
   - Hyperparameter Tuning by Optuna
-  - Feature Importance Analysis by Shap
  
 - **Feature Importance Analysis**
   - Use shap to visualize the most important features model values
-
- 
-## Results
-XGBoost performs best among all models.
 
 
 ## Next Steps
 
 - More sophisticated feature engineer and selection
 - Ensemble of different models
+- Search for more potential of models by location
